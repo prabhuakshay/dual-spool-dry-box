@@ -1,0 +1,20 @@
+# OS clutter
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Slicer output
+*.gcode
+*.bgcode
+*.gcode.3mf
+
+# SolidCraft lock / backup files
+.~*.lock
+*.sc.bak
+
+# Python
+__pycache__/
+*.pyc
+
+# Local-only archive of superseded exports and work-in-progress images (kept on disk, not published)
+dev/archive/

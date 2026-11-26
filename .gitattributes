@@ -1,0 +1,8 @@
+# Treat CAD and mesh files as binary (no diffs, no line-ending changes)
+*.stl  binary
+*.3mf  binary
+*.sc   binary
+*.png  binary
+*.step -diff -text
+*.md   text eol=lf
+*.py   text eol=lf
