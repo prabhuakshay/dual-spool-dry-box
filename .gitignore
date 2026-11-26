@@ -18,3 +18,6 @@ __pycache__/
 
 # Local-only archive of superseded exports and work-in-progress images (kept on disk, not published)
 dev/archive/
+
+# Generated print project: built by dev/tools/build_3mf.py and published as a GitHub release asset
+/DualSpoolDryBox_PRINT_ALL.3mf

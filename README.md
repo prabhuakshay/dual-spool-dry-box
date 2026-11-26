@@ -37,7 +37,7 @@
 
 ### Printed parts: one file
 
-Open **[`DualSpoolDryBox_PRINT_ALL.3mf`](DualSpoolDryBox_PRINT_ALL.3mf)** in Bambu Studio or OrcaSlicer. Every part is already on a plate in the right quantity and orientation, so there's nothing to count or arrange.
+**[⬇ Download `DualSpoolDryBox_PRINT_ALL.3mf`](https://github.com/prabhuakshay/dual-spool-dry-box/releases/latest/download/DualSpoolDryBox_PRINT_ALL.3mf)** from the [latest release](../../releases/latest) and open it in Bambu Studio or OrcaSlicer. Every part is already on a plate in the right quantity and orientation, so there's nothing to count or arrange.
 
 ![The three print plates](docs/images/print_plates.png)
 
@@ -66,7 +66,7 @@ The plates are laid out for a **256 × 256 mm bed** (Bambu A1, P1, X1 and simila
 
 ## Quick start
 
-1. **Print** the 3 plates of `DualSpoolDryBox_PRINT_ALL.3mf`.
+1. **Print** the 3 plates of [`DualSpoolDryBox_PRINT_ALL.3mf`](https://github.com/prabhuakshay/dual-spool-dry-box/releases/latest/download/DualSpoolDryBox_PRINT_ALL.3mf).
 2. **Press a bearing** into each wheel. Then **thread the wheels and spacers onto the axles** (the lip of every wheel faces outward, toward its tower), and drop them into the cradle.
 3. **Snap the two cradle halves together** with their puzzle joint.
 4. **Drill two 10 mm holes** in one end of the box, using the drill jig.
@@ -114,7 +114,7 @@ See **[docs/CUSTOMIZE.md](docs/CUSTOMIZE.md)**.
 ## Repository layout
 
 ```
-DualSpoolDryBox_PRINT_ALL.3mf   ← print this: every part, 3 plates
+(Releases)                      ← DualSpoolDryBox_PRINT_ALL.3mf: every part, 3 plates; print this
 docs/                           assembly guide, customisation guide, images
 src/
   stl/  3mf/                    single parts in print orientation (file name = quantity, e.g. _x4)

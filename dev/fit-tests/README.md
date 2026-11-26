@@ -1,6 +1,6 @@
 # Fit tests (maintainer tool)
 
-> These coupons are for **checking the design files** (and adapting them to another box), not part of the build. Users just print `DualSpoolDryBox_PRINT_ALL.3mf`.
+> These coupons are for **checking the design files** (and adapting them to another box), not part of the build. Users just print `DualSpoolDryBox_PRINT_ALL.3mf` from the latest release.
 
 **Step-by-step guide with pictures: [HOW_TO_TEST.md](HOW_TO_TEST.md).** This page is the quick-reference table.
 

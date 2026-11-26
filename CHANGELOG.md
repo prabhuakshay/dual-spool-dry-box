@@ -20,7 +20,7 @@ First public release. **Not yet print-verified:** every fit was checked in CAD o
 - Large floor openings to save plastic: about 220 cm³ for the full set.
 
 ### Files
-- `DualSpoolDryBox_PRINT_ALL.3mf`: every part, in its print quantity, on 3 plates (256 mm bed).
+- `DualSpoolDryBox_PRINT_ALL.3mf` (a release download): every part, in its print quantity, on 3 plates (256 mm bed).
 - Single-part STL and 3MF files, a STEP export, and the parametric SolidCraft model.
 - Maintainer fit-test coupons in `dev/fit-tests` (about 14 g).
 

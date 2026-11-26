@@ -4,7 +4,7 @@
 
 > **100% AI-generated, not yet print-verified.** These steps follow the CAD model. If something doesn't fit as described, please [open a print report](../../../issues/new?template=print_report.md).
 
-**Time:** about 30 minutes, plus printing. **Before you start:** print all 3 plates of `DualSpoolDryBox_PRINT_ALL.3mf`, and have the [hardware](../README.md#hardware) ready.
+**Time:** about 30 minutes, plus printing. **Before you start:** print all 3 plates of [`DualSpoolDryBox_PRINT_ALL.3mf`](https://github.com/prabhuakshay/dual-spool-dry-box/releases/latest/download/DualSpoolDryBox_PRINT_ALL.3mf) (from the latest release), and have the [hardware](../README.md#hardware) ready.
 
 | Part | Qty | Plate |
 |---|---|---|

@@ -82,4 +82,5 @@ All openings next to beads (tray slots, lid slots, letters) are 1.4 mm wide or l
    ```
    python dev/tools/plates_check.py DualSpoolDryBox_PRINT_ALL.3mf docs/images/print_plates.png
    ```
+   The print file isn't tracked in git. Attach it to a new GitHub release (`gh release create vX.Y.Z DualSpoolDryBox_PRINT_ALL.3mf`).
 4. If you changed any fit (box size, bearing, coupler, hygrometer), print the coupons in [`dev/fit-tests`](../dev/fit-tests) first. They take about 14 g and check each fit before you spend 250 g on the full set.
