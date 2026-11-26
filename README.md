@@ -53,14 +53,16 @@ The plates are laid out for a **256 × 256 mm bed** (Bambu A1, P1, X1 and simila
 
 ### Hardware
 
-| Qty | Item | Notes |
-|---|---|---|
-| 1 | **Signoraware 9 L Modular Rectangular container** ("740"), 29 × 19 × 24 cm outside | About ₹580. The design is sized for this box; see [Compatibility](#compatibility). |
-| 8 | **608ZZ bearing** (8 × 22 × 7 mm) | Standard skateboard bearing |
-| 4 | **PC4-M10 push-fit coupler** (4 mm tube, M10 thread), often sold as "PC4-01" | 2 feed couplers, plus 2 to park the tubes. About ₹46 each. |
-| 1 | **FY-11 mini digital hygrometer** (LCD, about 48 × 29 × 15 mm) | Measure yours: the pocket is sized for 48.5 × 29 × 15.5 mm |
-| ~180 g | **Colour-changing silica gel beads, 2–5 mm** | Must be **2 mm or larger**: every opening in the trays and the DRY window is 1.4 mm or less, so smaller beads could fall out. Colour-changing beads make the DRY indicator work. |
-| 2 × length to printer | **PTFE tube, 2 mm ID / 4 mm OD** | |
+| Qty | Item | Notes | Where to buy (India) |
+|---|---|---|---|
+| 1 | **Signoraware 9 L Modular Rectangular container** ("740"), 29 × 19 × 24 cm outside | About ₹580. The design is sized for this box; see [Compatibility](#compatibility). | [Amazon.in](https://www.amazon.in/dp/B0754BFXDH) |
+| 8 | **608ZZ bearing** (8 × 22 × 7 mm) | Standard skateboard bearing | [Amazon.in](https://www.amazon.in/dp/B01LXLWLFK) |
+| 4 | **PC4-M10 push-fit coupler** (4 mm tube, M10 thread), often sold as "PC4-01" | 2 feed couplers, plus 2 to park the tubes. About ₹46 each. | [Robu.in](https://robu.in/product/pneumatic-coupler-air-connectors-pc4-01-4mm-straight-fitting-for-ptfe-bowden-tube-3d-printer/) |
+| 1 | **FY-11 mini digital hygrometer** (LCD, about 48 × 29 × 15 mm) | Measure yours: the pocket is sized for 48.5 × 29 × 15.5 mm | [Robu.in](https://robu.in/product/fy-11-mini-digital-lcd-environment-diy-thermometer-black/) |
+| ~180 g | **Colour-changing silica gel beads, 2–5 mm** | Must be **2 mm or larger**: every opening in the trays and the DRY window is 1.4 mm or less, so smaller beads could fall out. Colour-changing beads make the DRY indicator work. | [Amazon.in](https://www.amazon.in/dp/B081QGXGZS) |
+| 2 × length to printer | **PTFE tube, 2 mm ID / 4 mm OD** | | [Robu.in](https://robu.in/product/ptfe-2x4mm-teflon-tubing-for-3d-printers-1-75mm-filament-1m/) |
+
+Links are examples of where to buy in India. Equivalent parts from any shop work.
 
 **Tools:** a drill with a 3.3 mm bit and a step bit (up to 10 mm), a spanner for the coupler hex, and a deburring knife.
 
