@@ -16,7 +16,7 @@ First public release. **Not yet print-verified:** every fit was checked in CAD o
 - **DRY indicator:** square stencil letters cut through the tray end wall below the hygrometer, in front of a small chamber of colour-changing beads. The chamber is filled through a hole in the hygrometer shelf.
 - All bead-facing openings are 1.4 mm wide or less, so beads of 2 mm or more can't escape.
 - Guide nuts that hold the couplers on the inside, with a funnel that leads the filament into the coupler.
-- Drill jig for the two 10 mm holes.
+- Drill jig for the two 10 mm holes, with V-notches and two centre arrows in its window that line up with a pencil mark on the box.
 - Large floor openings to save plastic: about 220 cm³ for the full set.
 
 ### Files

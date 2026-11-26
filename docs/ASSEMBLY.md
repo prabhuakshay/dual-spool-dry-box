@@ -59,8 +59,10 @@ Lay them flat and **press the tabs down into the sockets**. The puzzle joint sto
 
 Do this at **one end** of the box. That end becomes the "feed" end.
 
-1. Mark the centre of the end wall.
-2. Hold the **drill jig** against the outside of that wall. Push its top edge up under the moulded band below the rim, and line up its centre notches with your mark.
+1. Measure the end wall's width at about 3 cm below the rim band, and mark the centre with a vertical pencil line about 4 cm long.
+2. Hold the **drill jig** against the outside of that wall. Push its top edge up under the moulded band below the rim, and slide it sideways until your centre mark sits **exactly between the two arrow tips** in the jig's window. The V-notches on its top and bottom edges show the same centreline.
+
+   ![Drill jig: V-notches and centre arrows](images/drill_jig.png)
 3. Drill the two **3.3 mm pilot holes** through the jig's guide bosses.
 4. Remove the jig and open both holes to **10 mm with a step bit**. A step bit doesn't crack the plastic the way a normal 10 mm bit can.
 5. Deburr both sides of each hole.
